@@ -1,2 +1,11 @@
-# -Readly
-Coming soon, a mobile app built in React Native that allows users to set reading goals, receive GPT-3.5 feedback on their submissions, and incur penalties for late submissions.
+# Readly.ai
+
+Coming soon on iOS and Android, BookBuddy is a unique mobile application that allows users to set and achieve their reading goals. Upon successful reading, users will share a written response about their learnings within the app. A user-selected AI personality will then evaluate this response in relation to the book they've been reading. Not submitting a response within their goal's time frame will lead to a preset charge, determined by the user themselves. 
+
+## Privacy & Data 
+
+Your privacy matters. BookBuddy does not collect or track any user data. 
+
+## Tech Stack
+
+The app is built using the React Native framework, with Firebase handling some of the backend services.
